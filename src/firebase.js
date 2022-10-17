@@ -6,6 +6,7 @@ import 'firebase/compat/storage';
 const firebaseConfig = {
   apiKey: 'AIzaSyATI6aaOtx_LWOTgRgiH7iyXCxY_BriyAM',
   authDomain: 'disneyplus-clone-8dfd6.firebaseapp.com',
+  // databaseURL: 'https://disneyplus-clone-8dfd6-default-rtdb.firebaseio.com',
   projectId: 'disneyplus-clone-8dfd6',
   storageBucket: 'disneyplus-clone-8dfd6.appspot.com',
   messagingSenderId: '448645260288',
